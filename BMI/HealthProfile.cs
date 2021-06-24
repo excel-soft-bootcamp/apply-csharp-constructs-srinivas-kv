@@ -27,7 +27,7 @@ namespace BMICalculator
         {
             if (Bmi > 18.5)
                 return "Underweight";
-            else if (Bmi < 30)
+            else if (Bmi < 25)
                 return "Overweight";
         }
     }
