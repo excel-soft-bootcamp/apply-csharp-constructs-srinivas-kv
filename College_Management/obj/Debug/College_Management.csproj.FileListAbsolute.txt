@@ -1,0 +1,7 @@
+C:\Users\srinivas.kv\source\repos\Examples\College_Management\bin\Debug\College_Management.exe.config
+C:\Users\srinivas.kv\source\repos\Examples\College_Management\bin\Debug\College_Management.exe
+C:\Users\srinivas.kv\source\repos\Examples\College_Management\bin\Debug\College_Management.pdb
+C:\Users\srinivas.kv\source\repos\Examples\College_Management\obj\Debug\College_Management.csprojResolveAssemblyReference.cache
+C:\Users\srinivas.kv\source\repos\Examples\College_Management\obj\Debug\College_Management.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.kv\source\repos\Examples\College_Management\obj\Debug\College_Management.exe
+C:\Users\srinivas.kv\source\repos\Examples\College_Management\obj\Debug\College_Management.pdb
