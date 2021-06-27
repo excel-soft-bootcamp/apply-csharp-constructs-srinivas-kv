@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace College_Management
 {
-    class StaffIdCard : Identity
+    class StaffIdCard : PersonInformation
     {
         private string _BranchName;
         public StaffIdCard(int IDNumber, string name, int DOB, string BranchName,   string address, string MobileNumber) :base(name, DOB, address, MobileNumber)

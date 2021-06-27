@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace College_Management
 {
-    public class GuestIdCard :Identity
+    public class GuestIdCard :PersonInformation
     {
         private string _ChildName;
 
