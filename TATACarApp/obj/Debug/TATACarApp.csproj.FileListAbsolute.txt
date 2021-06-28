@@ -1,0 +1,6 @@
+C:\Users\srinivas.kv\source\repos\TATACarApp\TATACarApp\bin\Debug\TATACarApp.exe.config
+C:\Users\srinivas.kv\source\repos\TATACarApp\TATACarApp\bin\Debug\TATACarApp.exe
+C:\Users\srinivas.kv\source\repos\TATACarApp\TATACarApp\bin\Debug\TATACarApp.pdb
+C:\Users\srinivas.kv\source\repos\TATACarApp\TATACarApp\obj\Debug\TATACarApp.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.kv\source\repos\TATACarApp\TATACarApp\obj\Debug\TATACarApp.exe
+C:\Users\srinivas.kv\source\repos\TATACarApp\TATACarApp\obj\Debug\TATACarApp.pdb
