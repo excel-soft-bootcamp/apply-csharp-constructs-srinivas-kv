@@ -1,0 +1,15 @@
+C:\Users\srinivas.kv\source\repos\BMI_Application\bin\Debug\BMI_Application.exe.config
+C:\Users\srinivas.kv\source\repos\BMI_Application\bin\Debug\BMI_Application.exe
+C:\Users\srinivas.kv\source\repos\BMI_Application\bin\Debug\BMI_Application.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Application\bin\Debug\BMICalculatorLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Application\bin\Debug\BMIValidatorLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Application\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Application\bin\Debug\PersonDataLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Application\bin\Debug\BMICalculatorLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Application\bin\Debug\BMIValidatorLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Application\bin\Debug\ConsoleDisplayLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Application\bin\Debug\PersonDataLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Application\obj\Debug\BMI_Application.csprojResolveAssemblyReference.cache
+C:\Users\srinivas.kv\source\repos\BMI_Application\obj\Debug\BMI_Application.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.kv\source\repos\BMI_Application\obj\Debug\BMI_Application.exe
+C:\Users\srinivas.kv\source\repos\BMI_Application\obj\Debug\BMI_Application.pdb
