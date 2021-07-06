@@ -1,0 +1,8 @@
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\ConsoleUserInputlib\ConsoleUserInputlib\bin\Debug\ConsoleUserInputlib.dll
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\ConsoleUserInputlib\ConsoleUserInputlib\bin\Debug\ConsoleUserInputlib.pdb
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\ConsoleUserInputlib\ConsoleUserInputlib\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\ConsoleUserInputlib\ConsoleUserInputlib\bin\Debug\ConsoleDisplayLib.pdb
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\ConsoleUserInputlib\ConsoleUserInputlib\obj\Debug\ConsoleUserInputlib.csproj.CoreCompileInputs.cache
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\ConsoleUserInputlib\ConsoleUserInputlib\obj\Debug\ConsoleUserInputlib.dll
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\ConsoleUserInputlib\ConsoleUserInputlib\obj\Debug\ConsoleUserInputlib.pdb
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\ConsoleUserInputlib\ConsoleUserInputlib\obj\Debug\ConsoleUserInputlib.csprojResolveAssemblyReference.cache
