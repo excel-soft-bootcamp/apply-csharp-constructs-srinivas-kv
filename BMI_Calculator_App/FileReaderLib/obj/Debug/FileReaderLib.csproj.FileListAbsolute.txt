@@ -1,0 +1,7 @@
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator_App\FileReaderLib\bin\Debug\FileReaderLib.exe.config
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator_App\FileReaderLib\bin\Debug\FileReaderLib.exe
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator_App\FileReaderLib\bin\Debug\FileReaderLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator_App\FileReaderLib\obj\Debug\FileReaderLib.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator_App\FileReaderLib\obj\Debug\FileReaderLib.exe
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator_App\FileReaderLib\obj\Debug\FileReaderLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator_App\FileReaderLib\obj\Debug\FileReaderLib.csprojResolveAssemblyReference.cache

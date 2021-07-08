@@ -1,7 +1,0 @@
-C:\Users\srinivas.kv\source\repos\BMI_APP\BMI_APP\obj\Debug\BMI_APP.csprojResolveAssemblyReference.cache
-C:\Users\srinivas.kv\source\repos\BMI_APP\BMI_APP\obj\Debug\BMI_APP.csproj.CoreCompileInputs.cache
-C:\Users\srinivas.kv\source\repos\BMI_APP\BMI_APP\bin\Debug\BMI_APP.exe.config
-C:\Users\srinivas.kv\source\repos\BMI_APP\BMI_APP\bin\Debug\BMI_APP.exe
-C:\Users\srinivas.kv\source\repos\BMI_APP\BMI_APP\bin\Debug\BMI_APP.pdb
-C:\Users\srinivas.kv\source\repos\BMI_APP\BMI_APP\obj\Debug\BMI_APP.exe
-C:\Users\srinivas.kv\source\repos\BMI_APP\BMI_APP\obj\Debug\BMI_APP.pdb
