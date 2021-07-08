@@ -1,0 +1,11 @@
+C:\Users\srinivas.kv\source\repos\BMICalculatorLib\bin\Debug\BMICalculatorLib.dll
+C:\Users\srinivas.kv\source\repos\BMICalculatorLib\bin\Debug\BMICalculatorLib.pdb
+C:\Users\srinivas.kv\source\repos\BMICalculatorLib\obj\Debug\BMICalculatorLib.csprojResolveAssemblyReference.cache
+C:\Users\srinivas.kv\source\repos\BMICalculatorLib\obj\Debug\BMICalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.kv\source\repos\BMICalculatorLib\obj\Debug\BMICalculatorLib.dll
+C:\Users\srinivas.kv\source\repos\BMICalculatorLib\obj\Debug\BMICalculatorLib.pdb
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\BMICalculatorLib\bin\Debug\BMICalculatorLib.dll
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\BMICalculatorLib\bin\Debug\BMICalculatorLib.pdb
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\BMICalculatorLib\obj\Debug\BMICalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\BMICalculatorLib\obj\Debug\BMICalculatorLib.dll
+C:\Users\hemanth.p\Downloads\BMIAPP_Lib\BMICalculatorLib\obj\Debug\BMICalculatorLib.pdb

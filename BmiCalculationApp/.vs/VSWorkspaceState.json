@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ConsoleUserInputlib",
+    "\\ConsoleUserInputlib\\ConsoleUserInputlib",
+    "\\PersonDataLib",
+    "\\PersonDataLib\\bin",
+    "\\PersonDataLib\\bin\\Debug",
+    "\\PersonDataLib\\bin\\Release",
+    "\\PersonDataLib\\obj",
+    "\\PersonDataLib\\obj\\Debug"
+  ],
+  "SelectedNode": "\\ConsoleUserInputlib\\ConsoleUserInputlib\\ConsoleUserInputType.cs",
+  "PreviewInSolutionExplorer": true
+}
