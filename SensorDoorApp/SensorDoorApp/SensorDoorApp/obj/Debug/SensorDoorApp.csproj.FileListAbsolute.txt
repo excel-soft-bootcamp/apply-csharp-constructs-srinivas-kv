@@ -1,0 +1,7 @@
+C:\Users\srinivas.kv\source\repos\SensorDoorApp\SensorDoorApp\SensorDoorApp\bin\Debug\SensorDoorApp.exe.config
+C:\Users\srinivas.kv\source\repos\SensorDoorApp\SensorDoorApp\SensorDoorApp\bin\Debug\SensorDoorApp.exe
+C:\Users\srinivas.kv\source\repos\SensorDoorApp\SensorDoorApp\SensorDoorApp\bin\Debug\SensorDoorApp.pdb
+C:\Users\srinivas.kv\source\repos\SensorDoorApp\SensorDoorApp\SensorDoorApp\obj\Debug\SensorDoorApp.csprojResolveAssemblyReference.cache
+C:\Users\srinivas.kv\source\repos\SensorDoorApp\SensorDoorApp\SensorDoorApp\obj\Debug\SensorDoorApp.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.kv\source\repos\SensorDoorApp\SensorDoorApp\SensorDoorApp\obj\Debug\SensorDoorApp.exe
+C:\Users\srinivas.kv\source\repos\SensorDoorApp\SensorDoorApp\SensorDoorApp\obj\Debug\SensorDoorApp.pdb

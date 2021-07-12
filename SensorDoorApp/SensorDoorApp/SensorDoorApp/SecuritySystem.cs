@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace SensorDoorApp
 {
-    public delegate void receiveMessageHandler(string status);
-    class HouseOwner
+    public class SecuritySystem
     {
-        
-        public void ReceiveMessage()
+        public void SendMessage(string receiveMessage)
         {
-            
+            Console.WriteLine(receiveMessage);
+            Console.ReadLine();
         }
+        
     }
 }
